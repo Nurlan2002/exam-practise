@@ -1,0 +1,25 @@
+.btne {
+    background-color: yellow;
+}
+
+.parent {
+
+    color: white;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-image: url(https://preview.colorlib.com/theme/security/img/header-bg.jpg.webp);
+    text-align: center;
+}
+
+h1 {
+    font-size: 65px;
+}
+
+.gri {
+    justify-content: space-between;
+}
+
+.para {
+    text-align: center;
+}
